@@ -1,0 +1,17 @@
+:root {
+    --accent: #ff83c2;
+    --icons: #f97686;
+    --bg: #feddee;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  
+  body {
+    background-color: var(--bg);
+    font-family: "Roboto", sans-serif;
+  }
